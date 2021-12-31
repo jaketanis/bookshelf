@@ -1,2 +1,2 @@
 # libr
-web program for a personal library. 
+C++ program for a personal library. 
