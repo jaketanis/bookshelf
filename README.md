@@ -1,2 +1,2 @@
 # libr
-C++ program for a personal library. 
+ruby program for a personal library. 
