@@ -1,2 +1,2 @@
 # libr
-ruby program for a personal library. 
+python web app for a person library.
