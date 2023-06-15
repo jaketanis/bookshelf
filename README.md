@@ -1,2 +1,2 @@
 # libr
-python web app for a person library.
+python web app for a personal library.
